@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender Tak", "Sender Tak\Sender Tak.csproj", "{46DA09AB-AA0E-4BC1-BB9C-E97363EDE82D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46DA09AB-AA0E-4BC1-BB9C-E97363EDE82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DA09AB-AA0E-4BC1-BB9C-E97363EDE82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DA09AB-AA0E-4BC1-BB9C-E97363EDE82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DA09AB-AA0E-4BC1-BB9C-E97363EDE82D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {673C6F99-5D8B-42C2-B603-DE1190212920}
+	EndGlobalSection
+EndGlobal

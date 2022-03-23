@@ -1,0 +1,42 @@
+C:\Users\resid\source\repos\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.exe
+C:\Users\resid\source\repos\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.deps.json
+C:\Users\resid\source\repos\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.runtimeconfig.json
+C:\Users\resid\source\repos\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.runtimeconfig.dev.json
+C:\Users\resid\source\repos\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.dll
+C:\Users\resid\source\repos\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.pdb
+C:\Users\resid\source\repos\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.csproj.AssemblyReference.cache
+C:\Users\resid\source\repos\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\source\repos\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.AssemblyInfoInputs.cache
+C:\Users\resid\source\repos\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.AssemblyInfo.cs
+C:\Users\resid\source\repos\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.csproj.CoreCompileInputs.cache
+C:\Users\resid\source\repos\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.dll
+C:\Users\resid\source\repos\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.pdb
+C:\Users\resid\source\repos\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.genruntimeconfig.cache
+C:\Users\resid\Desktop\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.exe
+C:\Users\resid\Desktop\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.deps.json
+C:\Users\resid\Desktop\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.runtimeconfig.json
+C:\Users\resid\Desktop\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.runtimeconfig.dev.json
+C:\Users\resid\Desktop\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.dll
+C:\Users\resid\Desktop\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.pdb
+C:\Users\resid\Desktop\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\Desktop\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.AssemblyInfoInputs.cache
+C:\Users\resid\Desktop\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.AssemblyInfo.cs
+C:\Users\resid\Desktop\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.dll
+C:\Users\resid\Desktop\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.pdb
+C:\Users\resid\Desktop\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.genruntimeconfig.cache
+C:\Users\resid\Desktop\New Takss\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.exe
+C:\Users\resid\Desktop\New Takss\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.deps.json
+C:\Users\resid\Desktop\New Takss\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.runtimeconfig.json
+C:\Users\resid\Desktop\New Takss\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.runtimeconfig.dev.json
+C:\Users\resid\Desktop\New Takss\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.dll
+C:\Users\resid\Desktop\New Takss\Extension Taskk\Extension Taskk\bin\Debug\netcoreapp3.1\Extension Taskk.pdb
+C:\Users\resid\Desktop\New Takss\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.csproj.AssemblyReference.cache
+C:\Users\resid\Desktop\New Takss\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resid\Desktop\New Takss\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.AssemblyInfoInputs.cache
+C:\Users\resid\Desktop\New Takss\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.AssemblyInfo.cs
+C:\Users\resid\Desktop\New Takss\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.csproj.CoreCompileInputs.cache
+C:\Users\resid\Desktop\New Takss\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.dll
+C:\Users\resid\Desktop\New Takss\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.pdb
+C:\Users\resid\Desktop\New Takss\Extension Taskk\Extension Taskk\obj\Debug\netcoreapp3.1\Extension Taskk.genruntimeconfig.cache
